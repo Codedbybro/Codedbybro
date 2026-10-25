@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет, я Христо 👋
 
-<!--
-**Codedbybro/Codedbybro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux / DevOps junior. Настраиваю и разворачиваю серверы и приложения.
 
-Here are some ideas to get you started:
+📍 Россия · удалённо
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Что умею
+
+- Настраивать Linux VPS: SSH, пользователей, права доступа и базовый firewall.
+- Настраивать Nginx, домены и HTTPS с Let's Encrypt.
+- Разворачивать приложения с Docker и Docker Compose.
+- Создавать и запускать systemd-сервисы.
+- Проверять логи и диагностировать проблемы запуска приложений.
+
+## Технологии
+
+**Linux · Docker · Docker Compose · Nginx · Git · GitHub · Bash · Python · systemd · DNS · HTTPS**
+
+## Что изучаю
+
+- Kubernetes
+- Ansible
+- GitHub Actions
+- Prometheus и Grafana
+- PostgreSQL
+
+## Контакты
+
+- GitHub: [@Codedbybro](https://github.com/Codedbybro)
+- Email: [codedbybro@gmail.com](mailto:codedbybro@gmail.com)
+
+Открыт к удалённой работе и небольшим заказам.
