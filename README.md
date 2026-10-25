@@ -26,8 +26,8 @@ Linux / DevOps junior. Настраиваю и разворачиваю серв
 
 ## Контакты
 
-- Сайт: [codedbybro.ru](https://codedbybro.ru)
 - GitHub: [@Codedbybro](https://github.com/Codedbybro)
 - Email: [codedbybro@gmail.com](mailto:codedbybro@gmail.com)
+- Сайт: [https://Codedbybro.ru](https://Codedbybro.ru)
 
 Открыт к удалённой работе и небольшим заказам.
