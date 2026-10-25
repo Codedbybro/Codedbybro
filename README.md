@@ -1,4 +1,4 @@
-# Привет, я Христо 👋
+# Привет, я Христофор 👋
 
 Linux / DevOps junior. Настраиваю и разворачиваю серверы и приложения.
 
@@ -26,6 +26,7 @@ Linux / DevOps junior. Настраиваю и разворачиваю серв
 
 ## Контакты
 
+- Сайт: [codedbybro.ru](https://codedbybro.ru)
 - GitHub: [@Codedbybro](https://github.com/Codedbybro)
 - Email: [codedbybro@gmail.com](mailto:codedbybro@gmail.com)
 
